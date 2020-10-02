@@ -1,7 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="1445243f-8eb0-42dd-b6af-c769c7c6701e" name="Default Changelist" comment="" />
+    <list default="true" id="1445243f-8eb0-42dd-b6af-c769c7c6701e" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pets/tests.py" beforeDir="false" afterPath="$PROJECT_DIR$/pets/tests.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/requirements.txt" beforeDir="false" afterPath="$PROJECT_DIR$/requirements.txt" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -17,6 +21,9 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1bPVVh8RrrxgoGrwRGXIwwbXhz3" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -24,6 +31,7 @@
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
@@ -71,6 +79,7 @@
       <workItem from="1589027901544" duration="3087000" />
       <workItem from="1589070833078" duration="2079000" />
       <workItem from="1596390962295" duration="623000" />
+      <workItem from="1601658922494" duration="2219000" />
     </task>
     <servers />
   </component>
@@ -78,17 +87,9 @@
     <option name="version" value="1" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="142" y="22" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1588543318945">
+    <state x="364" y="192" key="com.intellij.ide.util.TipDialog" timestamp="1601658924319">
       <screen x="0" y="0" width="1366" height="732" />
     </state>
-    <state x="142" y="22" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1366.732@0.0.1366.732" timestamp="1588543318945" />
-    <state x="180" y="0" key="SettingsEditor" timestamp="1589034913019">
-      <screen x="0" y="0" width="1366" height="732" />
-    </state>
-    <state x="180" y="0" key="SettingsEditor/0.0.1366.732@0.0.1366.732" timestamp="1589034913019" />
-    <state x="364" y="192" key="com.intellij.ide.util.TipDialog" timestamp="1596390965666">
-      <screen x="0" y="0" width="1366" height="732" />
-    </state>
-    <state x="364" y="192" key="com.intellij.ide.util.TipDialog/0.0.1366.732@0.0.1366.732" timestamp="1596390965666" />
+    <state x="364" y="192" key="com.intellij.ide.util.TipDialog/0.0.1366.732@0.0.1366.732" timestamp="1601658924319" />
   </component>
 </project>
